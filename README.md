@@ -1,5 +1,11 @@
-
-    <h1>Guess the Number</h1>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Number Guessing Game</title>
+  </head>
+  <body>
+    <h1>Number Guessing Game</h1>
     <p>This is a command-line based guessing game where you try to guess a randomly generated number between 1 and 100. You have a limited number of attempts, and the game will tell you if your guess is too high or too low.</p>
     <h2>Installation</h2>
     <ol>
