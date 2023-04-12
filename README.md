@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Guess the Number</h1>
-    <p>This is a command-line based guessing game where you try to guess a randomly generated number between 1 and 100. You have a limited number of attempts, and the game will tell you if your guess is too high or too low.</p>
+    <p>This is a Python based guessing game where you try to guess a randomly generated number between 1 and 100. You have a limited number of attempts, and the game will tell you if your guess is too high or too low.</p>
     <h2>Installation</h2>
     <ol>
       <li>Clone the repository.</li>
